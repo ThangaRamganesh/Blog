@@ -25,7 +25,7 @@ This blog covers:
 5. **Future of AI** – Exploring innovations like AGI (Artificial General Intelligence) and human-AI collaboration.
 
 ## 🔗 How to Follow
-- Visit the blog: https://myblog-euz3lfas8-thanga-ramganeshs-projects.vercel.app/
+- Visit the blog: https://frontend-self-ten-89.vercel.app/
 - Connect on LinkedIn: https://www.linkedin.com/in/ram-ganesh-tanga-aaab53355/
 - Follow for updates on AI and technology trends.
 
